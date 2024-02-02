@@ -54,7 +54,7 @@ margin: 0 auto;}
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
 
-    ::after { content: icon;
+    ::after { content:"";
         width: 100%;
         position: absolute; 
         left: 0; 
