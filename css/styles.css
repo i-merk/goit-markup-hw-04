@@ -262,7 +262,7 @@ row-gap: 48px;
 }
 
 .abc:hover {background-color: #404bbf; }
-.abc:focus {background-color: #404bbf;}
+.abc:focus {background-color: #404bbf; } 
 
 .s-drei-svg {fill: #f4f4fd ;
 
