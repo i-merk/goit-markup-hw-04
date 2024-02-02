@@ -55,7 +55,7 @@ margin: 0 auto;}
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
 
-    ::after {content: ;
+    ::after {
         width: 100%;
         position: absolute; 
         left: 0; 
@@ -117,9 +117,7 @@ p,h1,h2,h3,h4,h5,h6,.btn_h-one {margin: 0; margin: 0;}
     background-position: center;
     background-size: cover;}
 
-.container-section-one {
-   
-}
+
 
 .h-one {color: var(--WHITE, #FFF);
     text-align: center;
