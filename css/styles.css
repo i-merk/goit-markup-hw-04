@@ -187,6 +187,16 @@ p,h1,h2,h3,h4,h5,h6,.btn_h-one {margin: 0; margin: 0;}
   }
 .section-two {padding: 120px 0;}
 
+.icon-s-two {display: flex;
+    align-items: center;
+    justify-content: center; 
+    height: 112px; 
+    background-color: #f4f4fd; 
+    border-radius: 4px; 
+    margin-bottom: 8px; 
+
+}
+
 
 .ul-s-two {display: flex; gap: 24px;
 }
