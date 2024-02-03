@@ -300,7 +300,7 @@ row-gap: 48px;
     overflow: hidden;
 
 }
-.p-section-fier-list:hover { transform: translateY(0%);}
+.p-section-fier-list:hover::after { transform: translateY(0%);}
 
 .text-new-fier{position: absolute; 
     top: 0;
@@ -313,7 +313,7 @@ row-gap: 48px;
     height: 100%; 
     width: 100%;
     transform: translateY(100%); 
-    transform: 250ms cubic-bezier(0.4, 0, 0.2, 1); 
+    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
 
 .list-section-fier {width: calc((100% - 48px) / 3);
