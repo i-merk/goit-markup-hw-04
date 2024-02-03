@@ -387,6 +387,7 @@ row-gap: 48px;
 
     .footer-d{display: flex;
         align-items: baseline;
+        margin-right: 120px;
     }
 
     .container-footer{margin-right: 120px;
